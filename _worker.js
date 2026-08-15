@@ -85,6 +85,10 @@ export default {
         url: 'https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd',
         type: 'redirect'
       },
+      'sunnext-geminimovieshd': {
+        url: 'https://livestream.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd',
+        type: 'redirect'
+      },
       'zee_bangla': {
         url: 'https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8?bitrate=500000&channel=zee_bangla_576&gp_id=',
         type: 'proxy'
