@@ -65,8 +65,8 @@ export default {
         url: 'https://livestream5.sunnxt.com/e2f36b5d0be74780a041a8f5b65bc7e6/UdayaTVB_IN_index.mpd',
         type: 'redirect'
       },
-      'colorsbdcinema-bdx1': {
-        url: 'http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8',
+      'sunnext-udayamovies': {
+        url: 'https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd',
         type: 'redirect'
       },
       'zee_bangla': {
