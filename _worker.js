@@ -25,8 +25,8 @@ export default {
     // 📌 চ্যানেল কনফিগারেশন (ডিফল্ট ৬টি)
     // ============================================================
     const CHANNELS = {
-      'jalshamovieshd-bdx1': {
-        url: 'http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8',
+      'sun-news': {
+        url: 'https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd',
         type: 'redirect'
       },
       'colorsbd-bdx1': {
