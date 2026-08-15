@@ -45,8 +45,8 @@ export default {
         url: 'https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd',
         type: 'redirect'
       },
-      'sunbangla': {
-        url: 'http://live.balajibroadband.com:3500/live/1669.m3u8',
+      'sunnext-suryamovies': {
+        url: 'https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd',
         type: 'redirect'
       },
       'jalshamovieshd-bdx1': {
