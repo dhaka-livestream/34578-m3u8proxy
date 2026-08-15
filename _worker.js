@@ -61,8 +61,8 @@ export default {
         url: 'https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd',
         type: 'redirect'
       },
-      'sonyaath-bdx1': {
-        url: 'http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8',
+      'sunnext-udayatv': {
+        url: 'https://livestream5.sunnxt.com/e2f36b5d0be74780a041a8f5b65bc7e6/UdayaTVB_IN_index.mpd',
         type: 'redirect'
       },
       'colorsbdcinema-bdx1': {
