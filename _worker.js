@@ -37,8 +37,8 @@ export default {
         url: 'https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd',
         type: 'redirect'
       },
-      'zeeactionmpd': {
-        url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd',
+      'sunnext-suryatvhd': {
+        url: 'https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd',
         type: 'redirect'
       },
       'Akash8': {
