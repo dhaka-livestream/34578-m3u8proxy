@@ -57,8 +57,8 @@ export default {
         url: 'https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd',
         type: 'redirect'
       },
-      'zeebanglahd-bdx1': {
-        url: 'http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8',
+      'sunnext-udayatvhd': {
+        url: 'https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd',
         type: 'redirect'
       },
       'sonyaath-bdx1': {
