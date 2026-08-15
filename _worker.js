@@ -33,8 +33,8 @@ export default {
         url: 'https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd',
         type: 'redirect'
       },
-      'starjalshauk': {
-        url: 'https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8',
+      'sunnext-ktvhd': {
+        url: 'https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd',
         type: 'redirect'
       },
       'zeeactionmpd': {
