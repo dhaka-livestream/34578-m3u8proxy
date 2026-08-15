@@ -41,8 +41,8 @@ export default {
         url: 'https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd',
         type: 'redirect'
       },
-      'Akash8': {
-        url: 'https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/tracks-v2a1/mono.m3u8',
+      'sunnext-suryatv': {
+        url: 'https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd',
         type: 'redirect'
       },
       'sunbangla': {
