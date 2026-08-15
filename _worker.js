@@ -53,8 +53,8 @@ export default {
         url: 'https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd',
         type: 'redirect'
       },
-      'colorsbdcinema-sdr': {
-        url: 'http://live.balajibroadband.com:3500/live/1657.m3u8',
+      'sunnext-suryacomedy': {
+        url: 'https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd',
         type: 'redirect'
       },
       'zeebanglahd-bdx1': {
