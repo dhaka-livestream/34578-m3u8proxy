@@ -49,8 +49,8 @@ export default {
         url: 'https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd',
         type: 'redirect'
       },
-      'jalshamovieshd-bdx1': {
-        url: 'http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8',
+      'sunnext-suryamusic': {
+        url: 'https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd',
         type: 'redirect'
       },
       'colorsbdcinema-sdr': {
