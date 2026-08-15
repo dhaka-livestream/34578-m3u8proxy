@@ -153,6 +153,10 @@ export default {
         url: 'https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8',
         type: 'proxy'
       },
+      'zee5-zeetvhd': {
+        url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd',
+        type: 'redirect'
+      },
       'mtv': {
         url: 'https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/mtv_576/mtv_576.m3u8?bitrate=500000&channel=mtv_576&gp_id=',
         type: 'proxy'
