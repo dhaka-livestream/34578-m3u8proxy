@@ -25,12 +25,12 @@ export default {
     // 📌 চ্যানেল কনফিগারেশন (ডিফল্ট ৬টি)
     // ============================================================
     const CHANNELS = {
-      'sun-news': {
+      'sunnext-sunnews': {
         url: 'https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd',
         type: 'redirect'
       },
-      'colorsbd-bdx1': {
-        url: 'http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8',
+      'sunnext-ktv': {
+        url: 'https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd',
         type: 'redirect'
       },
       'starjalshauk': {
