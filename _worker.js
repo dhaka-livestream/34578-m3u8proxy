@@ -177,6 +177,10 @@ export default {
         url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd',
         type: 'redirect'
       },
+      'zee5-andtv': {
+        url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd',
+        type: 'redirect'
+      },
       'zee_bangla': {
         url: 'https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8?bitrate=500000&channel=zee_bangla_576&gp_id=',
         type: 'proxy'
