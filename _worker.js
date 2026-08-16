@@ -154,7 +154,7 @@ export default {
         type: 'redirect'
       },
       'zee5-zeecinema': {
-        url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd',
+        url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8',
         type: 'redirect'
       },
       'zee5-bigmagic': {
