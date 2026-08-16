@@ -157,7 +157,7 @@ export default {
         url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd',
         type: 'redirect'
       },
-      'zee5-bigmusic': {
+      'zee5-bigmagic': {
         url: 'https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.mpd',
         type: 'redirect'
       },
@@ -189,7 +189,7 @@ export default {
         url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd',
         type: 'redirect'
       },
-      'zee5-zoom': {
+      'zee5-zoom2': {
         url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd',
         type: 'redirect'
       },
