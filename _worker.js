@@ -209,6 +209,10 @@ export default {
         url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd',
         type: 'redirect'
       },
+      'informented-discoverybd': {
+        url: 'http://live.balajibroadband.com:3500/live/3428.m3u8',
+        type: 'redirect'
+      },
       'zee_bangla': {
         url: 'https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8?bitrate=500000&channel=zee_bangla_576&gp_id=',
         type: 'proxy'
