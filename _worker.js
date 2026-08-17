@@ -209,8 +209,12 @@ export default {
         url: 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd',
         type: 'redirect'
       },
-      'informented-discoverybd': {
+      'infotainment-discoverybd': {
         url: 'http://live.balajibroadband.com:3500/live/3428.m3u8',
+        type: 'redirect'
+      },
+      'infotainment-discoveryhindi': {
+        url: 'http://live.balajibroadband.com:3500/live/3444.m3u8',
         type: 'redirect'
       },
       'zee_bangla': {
