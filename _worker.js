@@ -222,9 +222,11 @@ export default {
         type: 'redirect'
       },
       'infotainment-animalplanet': {
-        url: 'https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-
-',
+        url: 'https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8',
+        type: 'redirect'
+      },
+      'kids-wowkidz': {
+        url: 'https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8',
         type: 'redirect'
       },
       'zee_bangla': {
