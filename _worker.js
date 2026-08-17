@@ -241,6 +241,10 @@ export default {
         url: 'https://cdn-4.pishow.tv/live/969/master.m3u8',
         type: 'redirect'
       },
+      'inbangla-sunbangla': {
+        url: 'http://27.124.71.27/Sun_Bangla/index.m3u8',
+        type: 'redirect'
+      },
       'zee_bangla': {
         url: 'https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8?bitrate=500000&channel=zee_bangla_576&gp_id=',
         type: 'proxy'
