@@ -242,7 +242,7 @@ export default {
         type: 'redirect'
       },
       'inbangla-sunbangla': {
-        url: 'http://27.124.71.27/Sun_Bangla/index.m3u8',
+        url: 'http://live.balajibroadband.com:3500/live/1669.m3u8',
         type: 'redirect'
       },
       'zee_bangla': {
